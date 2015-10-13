@@ -5,3 +5,5 @@ Doesn't actually contains the project files.
 
 To play, you need to head over to releases and download the build there. To test it, start two instances of the application
 play with yourself, alternatively, get a friend to play with you over the internet.
+
+WARNING: This game was made a while ago, the code is messy and has a lot of bloat. I don't have time to refactor it but I'm adding it here anyway in-case someone is interested in looking at it.
