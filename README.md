@@ -1,4 +1,4 @@
-# Unity---Multiplayer-Tank-Mayhem
+# Unity Multiplayer Tank Mayhem
 
 WARNING: This game was made when I first started out, the code is messy and has a lot of bloat. I don't have time to refactor it but I'm adding it here anyway in-case someone is interested in looking at it.
 
